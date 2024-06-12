@@ -1,4 +1,6 @@
 # Waze Project
+![image](https://github.com/loverui129/Waze_project/assets/167585985/551a0e05-b5a5-4c6e-9349-bf337c956874)
+
 # Background on the Waze scenario
 Waze’s free navigation app makes it easier for drivers around the world to get to where they want to go. Waze’s community of map editors, beta testers, translators, partners, and users helps make each drive better and safer. Waze partners with cities, transportation authorities, broadcasters, businesses, and first responders to help as many people as possible travel more efficiently and safely. 
 
